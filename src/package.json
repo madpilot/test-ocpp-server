@@ -1,8 +1,0 @@
-{
-	"scripts": {
-		"start": "node test_server.js"
-	},
-  "dependencies": {
-    "ocpp-rpc": "^2.1.2"
-  }
-}
